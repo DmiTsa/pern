@@ -4,7 +4,7 @@ inst(dep)express - система управления БД
 inst(dep)pg - posrgres клиент
 inst(dep)pg-hstore - срериализация в формат hstore
 inst(dep)Sequelize - ORM-библиотека сопоставление таблиц в бд и отношений между ними с классами
-(dep)cors - совместное использование ресурсов
 inst(dep)dotenv - работа с переменными окружения
+(dep)cors - совместное использование ресурсов
 
 inst(dev-dep)nodemon 
